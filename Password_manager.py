@@ -4,7 +4,7 @@ from cryptography.fernet import Fernet
 import os
 
 # Master password (for demo purposes, use a secure method in real applications)
-MASTER_PASSWORD = "lessismore"
+MASTER_PASSWORD = "Your password here" # Update your password 
 
 def verify_master_password():
     entered_password = simpledialog.askstring("Master Password", "Enter the master password:", show='*')
