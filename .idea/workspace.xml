@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78929692-d463-4b87-99c7-e455c5fd06b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Youtube downloader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Password_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,44 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Madlibs generator.executor": "Run",
-    "Python.Number_guesser.executor": "Run",
-    "Python.Password strength.executor": "Run",
-    "Python.Password.executor": "Run",
-    "Python.Password_manager.executor": "Run",
-    "Python.Quiz game.executor": "Run",
-    "Python.Roll dice.executor": "Run",
-    "Python.Youtube downloader.executor": "Run",
-    "Python.rock_paper_scissors.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Madlibs generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number_guesser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password strength.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Quiz game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Roll dice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Youtube downloader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Youtube downloader">
-    <configuration name="Madlibs generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Mini Projects " />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Madlibs generator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Python.Timed math challenge">
     <configuration name="Password strength" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mini Projects " />
       <option name="ENV_FILES" value="" />
@@ -137,6 +113,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Timed math challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mini Projects " />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Timed math challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Youtube downloader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mini Projects " />
       <option name="ENV_FILES" value="" />
@@ -183,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Timed math challenge" />
         <item itemvalue="Python.Youtube downloader" />
         <item itemvalue="Python.Password_manager" />
         <item itemvalue="Python.Password strength" />
         <item itemvalue="Python.Roll dice" />
-        <item itemvalue="Python.Madlibs generator" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +237,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708976680914</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Youtube downloade.py">
+      <option name="closed" value="true" />
+      <created>1709066901836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709066901836</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Password_manager.py" />
     <MESSAGE value="Added roll dice.py" />
     <MESSAGE value="Added password strength.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added password strength.py" />
+    <MESSAGE value="Added Youtube downloade.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Youtube downloade.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
